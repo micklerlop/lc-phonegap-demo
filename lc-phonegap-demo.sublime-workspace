@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"DEFAULT_LC_U",
+				"DEFAULT_LC_UM_URL"
+			],
+			[
+				"DE",
+				"DEFAULT_LC_USER"
+			],
+			[
+				"tim",
+				"timeoutCount"
+			],
+			[
+				"time",
+				"timeoutId"
+			],
+			[
+				"timeout",
+				"timeoutId"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ini",
+				"initDocumentViewer"
+			],
+			[
+				"retur",
+				"returnPath"
+			],
+			[
+				"ret",
+				"returnPath"
+			],
+			[
+				"document",
+				"documentUrl"
+			],
+			[
+				"pro",
+				"processing"
+			],
+			[
+				"get",
+				"getUploadedDocumentUrl"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"conte",
+				"contentWindow"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"ser",
+				"servlet-mapping"
+			],
+			[
+				"dep",
+				"dependency"
+			],
+			[
+				"i",
+				"includes"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"PO",
+				"PORT"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"thml",
+				"Tidy HTML"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/HDD/Users/lerlop/Projects/Mobile/lc-phonegap-demo/index.html",
+		"/Volumes/HDD/Users/lerlop/Projects/Mobile/lc-phonegap-demo/config.xml",
+		"/Volumes/HDD/Users/lerlop/Projects/Mobile/lc-phonegap-demo/app/scripts/main.js",
+		"/Volumes/HDD/Users/lerlop/Projects/Mobile/lc-phonegap-demo/app/scripts/vendor/jquery/jquery.js",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/IAM/1.5.0/aws-credential.mick",
+		"/Volumes/HDD/Users/lerlop/Resources/CQ/Training/CQ_advanced_dev_training_files/sampleproject/company-core/pom.xml",
+		"/Volumes/HDD/Users/lerlop/Accounts/USDA/FSA/User Requirements.markdown",
+		"/Volumes/HDD/Users/lerlop/Desktop/User Requirements",
+		"/Volumes/HDD/Users/lerlop/.zshrc",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/IAM/1.5.0/aws-credential.emergent",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Resources/Amazon/AWS.txt",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/IAM/1.5.0/aws-credential.template",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/IAM/1.5.0/client-config.template",
+		"/Volumes/HDD/Users/lerlop/Desktop/prod.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/stage.txt",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Backup/Staging/20120828/httpd/dispatcher.any",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Backup/Production/20120831/httpd/conf/dispatcher.any",
+		"/Volumes/HDD/Users/lerlop/Desktop/todo.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/CRX/Releases/Granite/license.properties",
+		"/Volumes/HDD/Users/lerlop/Resources/CQ/Versions/5.5/license.properties",
+		"/Volumes/HDD/Users/lerlop/Desktop/serial.txt",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Resources/Apache/httpd/conf/httpd.conf",
+		"/Volumes/HDD/Users/lerlop/Desktop/IRS CRX Meeting.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/test.json",
+		"/Volumes/HDD/Users/lerlop/.oh-my-zsh/oh-my-zsh.sh",
+		"/Volumes/HDD/Users/lerlop/Desktop/Untitled.csv",
+		"/Volumes/HDD/Users/lerlop/Resources/Google/Compute Engine/gcutil/gcutil",
+		"/Volumes/HDD/Users/lerlop/Desktop/AWS.txt",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/EC2 Cheatsheet.markdown",
+		"/Volumes/HDD/Users/lerlop/Projects/iOS/MobileVLC/ImportedSources/vlc/configure",
+		"/Volumes/HDD/Users/lerlop/Projects/iOS/MobileVLC/ImportedSources/vlc/modules/video_filter/Modules.am",
+		"/Volumes/HDD/Users/lerlop/Projects/iOS/MobileVLC/buildMobileVLC.sh",
+		"/Volumes/HDD/Users/lerlop/Projects/iOS/MobileVLC/ImportedSources/vlc/contrib/src/ffmpeg/rules.mak",
+		"/Volumes/HDD/Users/lerlop/Projects/iOS/MobileVLC/ImportedSources/vlc/contrib/src/ogg/SHA512SUMS",
+		"/Volumes/HDD/Users/lerlop/Desktop/vlc/MobileVLC/buildMobileVLC.sh",
+		"/Volumes/HDD/Users/lerlop/.oh-my-zsh/themes/doubleend.zsh-theme",
+		"/Volumes/HDD/Users/lerlop/Accounts/DOE/ICAM/Discovery.md",
+		"/Volumes/HDD/Users/lerlop/Accounts/Treasury/IRS/Healthcare Act.md",
+		"/Volumes/VADER/Extra/org.chameleon.Boot.plist",
+		"/Volumes/HDD/Users/lerlop/Desktop/VA Demo Script.markdown",
+		"/Volumes/HDD/Users/lerlop/Desktop/maintenance.html",
+		"/Volumes/HDD/Users/lerlop/Downloads/AdHocIPA.plist",
+		"/Volumes/HDD/Users/lerlop/Desktop/optimize-img.sh",
+		"/Volumes/HDD/Users/lerlop/Dropbox/untitled.txt",
+		"/Volumes/HDD/Users/lerlop/Downloads/IAMCli-1.5.0/README.txt",
+		"/Volumes/HDD/Users/lerlop/Downloads/installfp.sh",
+		"/Volumes/HDD/Users/lerlop/Desktop/Transfer Applicaiton Log.md",
+		"/Volumes/HDD/Users/lerlop/Downloads/combo_not.txt",
+		"/Volumes/HDD/Users/lerlop/.bash_profile",
+		"/Volumes/HDD/Users/lerlop/Downloads/aFarkas-html5shiv-aff3e7a/dist/html5shiv.js",
+		"/Volumes/HDD/Users/lerlop/Downloads/sophialite-1.p12",
+		"/Volumes/HDD/Users/lerlop/Accounts/DHS/FEMA/Forms/Working/SBA_Data-modified.xsd",
+		"/Volumes/HDD/Users/lerlop/Accounts/DHS/FEMA/Forms/SBA_Data-modified.xsd",
+		"/Volumes/HDD/Users/lerlop/Downloads/jquery-ui-1.8.20.custom/development-bundle/ui/jquery-ui-1.8.20.custom.js",
+		"/Volumes/HDD/Users/lerlop/Downloads/datepicker/less/datepicker.less",
+		"/Volumes/HDD/Users/lerlop/Resources/Amazon/ec2.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/EDGAR Partners.markdown",
+		"/Volumes/HDD/Users/lerlop/Library/Caches/Cleanup At Startup/Transmit/A7C1EAA5-490A-4EDC-80F9-57F00D5178CF/dispatcher.any",
+		"/Volumes/HDD/Users/lerlop/Downloads/initializr-verekia-3.0 (1)/index.html",
+		"/Volumes/HDD/Users/lerlop/Downloads/h5bp-initializr-3.0/index.html",
+		"/Volumes/HDD/Users/lerlop/Desktop/test/build/build.xml",
+		"/Volumes/HDD/Users/lerlop/Desktop/test/build/config/default.properties",
+		"/Volumes/HDD/Users/lerlop/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/HDD/Users/lerlop/Accounts/VA/Washington State/Washington State - VA.markdown",
+		"/Volumes/HDD/Users/lerlop/Downloads/h5bp-html5-boilerplate-1ac32b7/index.html",
+		"/Volumes/HDD/Users/lerlop/Downloads/initializr-verekia-3.0/index.html",
+		"/Volumes/HDD/Users/lerlop/Desktop/Washington State - VA.markdown",
+		"/Volumes/HDD/Users/lerlop/Desktop/e-Filing Notes.markdown",
+		"/Volumes/HDD/Users/lerlop/Desktop/Folder/css/libs/test.css",
+		"/Volumes/HDD/Users/lerlop/Accounts/FAA/JPAMS/JPAMS Stats.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/JPAMS Stats",
+		"/Volumes/HDD/Users/lerlop/Desktop/Acrobat XI Pro M3/serial#.txt",
+		"/Volumes/HDD/Users/lerlop/Accounts/NASA/Enterprise Forms Solution/IFM PDF Conversion/ARC73A.itx",
+		"/Volumes/HDD/Users/lerlop/Accounts/GSA/FPMI - Onboarding/Notes.md",
+		"/Volumes/crx.default/content/demo/htmlsubmit/index.html",
+		"/Volumes/HDD/Users/lerlop/Accounts/VA/CQ - Web Ops/Discovery.markdown",
+		"/Volumes/crx.default/content/demo/esignature/jquery.signaturepad.css",
+		"/Volumes/crx.default/content/demo/js/global.js",
+		"/Volumes/crx.default/content/demo/esignature/application.js",
+		"/Volumes/crx.default/content/demo/esignature/index.html",
+		"/Volumes/crx.default/content/demo/esignature/style.less",
+		"/Volumes/crx.default/content/demo/htmlsubmit/application.js",
+		"/Volumes/crx.default/content/demo/less/bootstrap/variables.less",
+		"/Volumes/crx.default/content/demo/less/bootstrap/mixins.less",
+		"/Volumes/crx.default/content/demo/esignature/pen.cur",
+		"/Volumes/HDD/Users/lerlop/Library/Application Support/Sublime Text 2/Packages/User/HtmlTidy.sublime-settings",
+		"/Volumes/HDD/Users/lerlop/Library/Application Support/Sublime Text 2/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+		"/Volumes/crx.default/content/demo/less/style.less",
+		"/Volumes/crx.default/content/demo/style.less",
+		"/Volumes/HDD/Users/lerlop/Desktop/bridge.js",
+		"/Volumes/HDD/Users/lerlop/Projects/Demos/CRX/content/demo/htmlsubmit/script.js",
+		"/Volumes/crx.default/content/demo/htmlsubmit/iframe.html",
+		"/Volumes/crx.default/content/demo/iframe.html",
+		"/Volumes/crx.default/content/demo/htmlsubmit/script.js",
+		"/Volumes/HDD/Users/lerlop/Accounts/DOE/KCP/Request Access LiveCycle Demo Script.markdown",
+		"/Volumes/crx.default/content/demo/htmlsubmit/style.less",
+		"/Volumes/crx.default/content/demo/less/bootstrap/layouts.less",
+		"/Volumes/crx.default/content/demo/htmlsubmit/js/script.js",
+		"/Volumes/crx.default/content/demo/js/libs/pdfobject.js",
+		"/Volumes/HDD/Users/lerlop/Resources/Javascript/PDFObject/pdfobject.min.js",
+		"/Volumes/crx.default/apps/demo/htmlsubmit/js/script.js",
+		"/Volumes/crx.default/apps/demo/htmlsubmit/index.html",
+		"/Volumes/HDD/Users/lerlop/Accounts/DHS/CIS/FOIA Redaction/USCIS - Redaction.markdown",
+		"/etc/hosts",
+		"/Volumes/HDD/Users/lerlop/Accounts/Treasury/FMS/CATS REI requirements.markdown",
+		"/Volumes/HDD/Users/lerlop/Accounts/Treasury/FMS/Discovery.markdown",
+		"/Library/Contextual Menu Items/NuFile.plugin/Contents/Resources/text.txt",
+		"/Volumes/HDD/Users/lerlop/Desktop/USCIS - Redaction.markdown",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Development/CRX/crx-quickstart/repository/repository.xml",
+		"/Volumes/HDD/Users/lerlop/Desktop/ARC73A.itx",
+		"/Volumes/HDD/Users/lerlop/Desktop/ARC73A.xml",
+		"/Volumes/HDD/Users/lerlop/Desktop/ARC73A.ifm",
+		"/Volumes/HDD/Users/lerlop/Desktop/ARC73A.ifx",
+		"/Volumes/HDD/Users/lerlop/Accounts/DOE/KCP/Pre-demo Questions.markdown",
+		"/Volumes/HDD/Users/lerlop/Desktop/untitled.js",
+		"/Volumes/HDD/Users/lerlop/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/HDD/Users/lerlop/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Volumes/HDD/VM/untitled folder/ADEP.vmwarevm/ADEP.vmx",
+		"/Volumes/HDD/Users/lerlop/Dropbox/Summit/Julie's Notes.txt",
+		"/Volumes/HDD/Users/lerlop/Resources/CQ/Versions/5.4/author/crx-quickstart/launchpad/felix/bundle101/bundle.location",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Development/TAMS/tams-ui/src/jcr_root/etc/designs/tams/less/style.less",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Development/TAMS/tams-ui/src/jcr_root/etc/designs/tams/less/bootstrap/bootstrap.less",
+		"/Volumes/HDD/Users/lerlop/Projects/Emergent/Development/TAMS/tams-ui/src/jcr_root/etc/designs/tams/less/bootstrap/sprites.less",
+		"/Volumes/HDD/Users/lerlop/.m2/settings.xml",
+		"/Volumes/HDD/Users/lerlop/Desktop/Demo - What's New in CQ 5.5.markdown",
+		"/Volumes/HDD/Users/lerlop/Accounts/DOE/ORNL/Proposal Management Solution/Demo - What's New in CQ 5.5.md",
+		"/Volumes/HDD/Users/lerlop/Desktop/Demo - What's New in CQ 5.5.md",
+		"/Volumes/HDD/Users/lerlop/Accounts/DOE/ORNL/Proposal Management Solution/ORNL - Proposal Management Solution.markdown"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			"/Volumes/HDD/Users/lerlop/Desktop/sampleproject,<open folders>",
+			"/Volumes/HDD/Users/lerlop/Desktop/sampleproject",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"·         ",
+			"logou",
+			"sling",
+			"renderPdfForm",
+			",",
+			"dynamicoverlay",
+			"Making all in dynamicoverlay",
+			"libtool --",
+			"libtool",
+			"configure",
+			"libtool",
+			"--tag",
+			"libogg-1.3.0",
+			"HAVE_NEON",
+			"SDKR",
+			"SSL",
+			"ssl",
+			"SSLSetProtocolVersionEnabled",
+			"*",
+			"Captivate",
+			"Â",
+			"scripts concatenated",
+			"-usemin",
+			"com.adobe.se",
+			"sendMessage",
+			"sendM",
+			"submitAction",
+			"R_SUBMIT_ACTION",
+			"section",
+			"target",
+			"submitAction",
+			"doc",
+			"submitAction",
+			"R_SUBMIT_ACTION",
+			"submit",
+			"nasa.gov",
+			"data",
+			", ",
+			",\n",
+			", ",
+			"/",
+			"9",
+			"9 ",
+			"\n",
+			"	",
+			"\\t",
+			"workspa",
+			"login",
+			"cq",
+			"user",
+			"Horizontal forms",
+			"FileInputSource",
+			"src/main/java",
+			"base",
+			"java",
+			"Adobe",
+			"VLT_HOME",
+			"lib",
+			"!",
+			"download",
+			".png",
+			"company",
+			"The transaction is not active",
+			"base",
+			"company",
+			"vault",
+			"4502",
+			"service.jsp",
+			"4502",
+			"45027402",
+			"full",
+			"4502",
+			"vault"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"+ ",
+			"\\t",
+			"+",
+			"\",\"",
+			"\\",
+			"-",
+			"\n* ",
+			"\n",
+			"\\n",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/HDD/Users/lerlop/Desktop/todo.txt"
+			],
+			[
+				"mix",
+				"less/bootstrap/mixins.less"
+			],
+			[
+				"dhs",
+				"main/content/jcr_root/apps/tams/components/home/dhs.html.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}
